@@ -12,6 +12,6 @@ public class GameStartButton01 : MonoBehaviour
     }
     void StartGame()
     {
-        SceneManager.LoadScene("FPS_01");
+        SceneManager.LoadScene("Stage Select");
     }
 }
