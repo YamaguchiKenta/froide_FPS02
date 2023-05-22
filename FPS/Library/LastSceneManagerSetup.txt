@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Creator Kit - FPS/Scenes/Title.unity
+- path: Assets/Creator Kit - FPS/Scenes/Title 2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
