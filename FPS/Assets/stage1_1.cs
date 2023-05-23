@@ -12,6 +12,6 @@ public class stage1_1 : MonoBehaviour
     }
     void StartGame()
     {
-        SceneManager.LoadScene("FPS_01");
+        SceneManager.LoadScene("stage1_1");
     }
 }

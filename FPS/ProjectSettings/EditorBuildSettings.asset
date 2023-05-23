@@ -7,11 +7,26 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Creator Kit - FPS/Scenes/Title.unity
-    guid: 5a4b0903a4dc908498dafed7ffc164ef
-  - enabled: 1
-    path: Assets/Creator Kit - FPS/Scenes/FPS_01.unity
-    guid: 6f4355dfd2d06244ca75a054b1b9bb56
+    guid: 6f68a76880a170046930431fa57f5d36
   - enabled: 1
     path: Assets/Creator Kit - FPS/Scenes/Stage Select.unity
-    guid: 90be00d16e4570046a7cd6126912d303
+    guid: e8743f9de5cb05444965e0c38c4aae6c
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/stage1_1.unity
+    guid: 21e511a8bf457e448bfd626ed8f7afe0
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/stage1_2.unity
+    guid: 992298e78b5527043be9e3d77f2a2e9d
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/stage1_3.unity
+    guid: 9787356730349e7458f55633b5801c06
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/stage1_4.unity
+    guid: 6f4355dfd2d06244ca75a054b1b9bb56
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/stage1_6.unity
+    guid: 20fc7eb7a9d715745814120013c5e00a
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/stage1_5.unity
+    guid: 3b8980685ad7f1c42af93cce3831acff
   m_configObjects: {}
